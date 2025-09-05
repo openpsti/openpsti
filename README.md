@@ -1,7 +1,7 @@
 # OpenPSTI
 Um PSTI para chamar de seu.
 
-Trata-se de um conector 100% em conformidade a mensageria do arranjo PIX, do SPI e das APIs do DICT, e que segue os quatro princípios fundamentais:
+Trata-se de um conector pronto para operar na RSFN, 100% em conformidade a mensageria do arranjo PIX, do SPI e das APIs do DICT, e que segue os quatro princípios fundamentais:
 1. ser seguro; 🔒
 2. ser eficiente; ⚡️
 3. ser resiliente; e 💪
