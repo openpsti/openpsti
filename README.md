@@ -14,6 +14,7 @@ No contexto do Banco Central do Brasil, um PSTI é um Provedor de Serviço de Te
 - Serviços que esponham via internet conectividade para as instituições participantes do PIX, atuando como ponte segura entre a RSFN e a própria Internet.
 
 ## Materias de apoio
+- [Regulamentação sobre PSTI](https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50876/Circ_3970_v1_O.pdf)
 - [Manual de Segurança do Pix](https://www.bcb.gov.br/content/estabilidadefinanceira/cedsfn/Manual_de_Seguranca_PIX.pdf)
 - [Manual de Interface de Comunicação](https://www.bcb.gov.br/content/estabilidadefinanceira/cedsfn/Manual%20das%20Interfaces%20de%20Comunicacao-1.11.pdf)
 - [Manual de Segurança do SFN](https://www.bcb.gov.br/content/estabilidadefinanceira/cedsfn/Manual%20de%20Seguran%C3%A7a%20do%20SFN-v5_06.pdf)
