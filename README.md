@@ -9,7 +9,7 @@ Trata-se de um conector pronto para operar na RSFN, 100% em conformidade a mensa
 
 ## O que é um PSTI
 No contexto do Banco Central do Brasil, um PSTI é um Provedor de Serviço de Tecnologia da Informação: uma empresa que presta serviço de conectividade na mensageria do PIX. Para tanto esta empresa precisa ter:
-- Um link de rede com acesso a RSFN (Rede do Sistema Financeiro Nacional)
+- Um link físico de rede com acesso a RSFN (Rede do Sistema Financeiro Nacional)
 - Serviços que produzam e consomam as mensagens padronizadas no PIX
 - Serviços que esponham via internet conectividade para as instituições participantes do PIX, atuando como ponte segura entre a RSFN e a própria Internet.
 
